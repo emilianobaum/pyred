@@ -1,0 +1,10 @@
+{
+    "redmine":{
+        "host":"http://10.0.100.24:3001",
+        "user": "admin",
+        "passwd": "c1lc5l1d4r1"
+    },
+    "telegram":{
+        "token":""
+    }
+}
